@@ -3,7 +3,7 @@
 Answer each of these questions completely but concisely. Use the proper technical terminology. You may refer to the [Marcy Lab School Docs](https://marcylabschool.gitbook.io/marcy-lab-school-docs) or Google but do NOT copy and paste definitions or explanations verbatim.
 
 You can earn up to 6 points for each response (3 points for writing quality, 3 points for technical content).
-
+   
 Before submitting your responses, use a spell checker / AI to ensure that you have no grammar or spelling mistakes.
 
 ## Question 1: Servers and HTTP
